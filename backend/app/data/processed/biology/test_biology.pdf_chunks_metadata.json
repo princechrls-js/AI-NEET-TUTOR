@@ -1,0 +1,18 @@
+{
+  "chunks": [
+    {
+      "subject": "biology",
+      "chapter": null,
+      "filename": "test_biology.pdf",
+      "chunk_index": 0,
+      "text": "NEET Biology - Cell Biology Chapter 1: Cell - The Unit of Life The cell is the basic structural and functional unit of all living organisms. Robert Hooke discovered cells in 1665 by observing cork under a microscope. The cell theory was proposed by Schleiden and Schwann in 1838-39. Types of Cells: 1. Prokaryotic Cells: Lack a well-defined nucleus and membrane-bound organelles. Examples include bacteria and cyanobacteria (blue-green algae). 2. Eukaryotic Cells: Have a well-defined nucleus enclosed by a nuclear membrane. They contain membrane-bound organelles such as mitochondria, ER, Golgi, lysosomes. Cell Organelles: - Mitochondria: Powerhouse of the cell, responsible for cellular respiration and ATP. They have their own DNA (mtDNA) and evolved through endosymbiosis. - Endoplasmic Reticulu"
+    },
+    {
+      "subject": "biology",
+      "chapter": null,
+      "filename": "test_biology.pdf",
+      "chunk_index": 1,
+      "text": "nsible for cellular respiration and ATP. They have their own DNA (mtDNA) and evolved through endosymbiosis. - Endoplasmic Reticulum (ER): Rough ER has ribosomes for protein synthesis. Smooth ER is involved in lipid synthesis and detoxification. - Nucleus: Control center of the cell. Contains DNA in chromosomes. Cell Division: Mitosis: Two identical daughter cells, important for growth and repair. Meiosis: Four genetically different daughter cells, for sexual reproduction."
+    }
+  ]
+}
