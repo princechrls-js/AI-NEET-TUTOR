@@ -1,8 +1,15 @@
 # Virtual environments
-.venv/
+.venv
 venv/
 env/
+
+# Environment files
 .env
+.env.*
+!.env.example
+
+# HuggingFace model cache
+.hf_cache/
 
 # Python
 __pycache__/
